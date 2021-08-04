@@ -4,7 +4,7 @@ LICENSE: [MIT](./license.md)
 ![git-logo](./assets/git-logo.png)
 ---
 ### Содержание: 
-1. [git commiit](./commit.md)
+1. [git commit](./commit.md)
 2. [git add](./add.md)
 3. [git diff](./diff.md)
 4. [git difftools](./difftools.md)
